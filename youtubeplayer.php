@@ -2,7 +2,7 @@
     /**
      * @author Pankaj Kumar Jha
      * @version $1.0.0$
-     * @copyright Global Journals Inc.
+     * @copyright Global Codester
      * @uses  To YOUTUBE Video player in IFRAME, JUST PASS @VIDEO_ID
      * @return int
      */
