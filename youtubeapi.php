@@ -2,9 +2,8 @@
     /**
      * @author Pankaj Kumar Jha
      * @version $1.0.0$
-     * @copyright Global Journals Inc.
+     * @copyright Global Codester.
      * @uses  To fetch data from YOUTUBE.COM in JSON FORMAT
-     * @return int
      */
 
 $curl = curl_init();
