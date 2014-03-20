@@ -17,6 +17,8 @@ $youtube_data_in_array = json_decode(json_encode((array)simplexml_load_string($r
 echo "<pre>";
 print_r($youtube_data_in_array);
 echo "</pre>"; 
+
+# For thumbnail: http://img.youtube.com/vi/<YOUTUBE_VIDEO_ID>/0.jpg
 ?>
 
 
